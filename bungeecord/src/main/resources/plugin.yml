@@ -1,0 +1,5 @@
+name: "StarGate"
+version: 2.1.0
+author: "Alemiz"
+description: "StarGate server plugin for Bungeecord and its forks"
+main: alemiz.stargate.StarGate
